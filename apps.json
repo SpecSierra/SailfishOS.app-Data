@@ -5833,10 +5833,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "a503ebed-6177-4e19-98fb-5c12d169d73e",
       "created_at": "2026-02-08T09:52:02.044864",
-      "updated_at": "2026-02-08T09:52:51.343161"
+      "updated_at": "2026-10-29T13:13:31.500051"
     },
     {
       "android_name": "Crossiety",
@@ -10824,10 +10824,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "75332868-5c5b-42da-be91-1602c3df014a",
       "created_at": "2026-08-05T19:01:19.580440",
-      "updated_at": "2026-08-05T19:01:48.677779"
+      "updated_at": "2026-10-29T19:06:21.785057"
     },
     {
       "android_name": "Tuta Mail: Secure Email",
@@ -10858,10 +10858,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "e2757e73-6d93-42c1-9daf-eb1f6ac07289",
       "created_at": "2026-08-05T19:52:01.498172",
-      "updated_at": "2026-08-05T19:52:20.649001"
+      "updated_at": "2026-10-29T19:05:07.022347"
     },
     {
       "android_name": "Storytel",
@@ -12474,10 +12474,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "44868210-e792-45d2-b394-91dd15900b19",
       "created_at": "2026-09-16T18:43:51.605003",
-      "updated_at": "2026-09-16T18:44:57.194782"
+      "updated_at": "2026-10-29T19:03:48.259891"
     },
     {
       "android_name": "Open Camera",
@@ -13162,10 +13162,10 @@
       "native_store_url": "https://openrepos.net/content/poetaster/fahrplan-fork",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 5,
+      "reports_count": 8,
       "id": "b93e9cdf-f970-4721-bf55-c45f47b7162c",
       "created_at": "2026-10-02T08:21:15.525326",
-      "updated_at": "2026-10-02T08:41:41.578496"
+      "updated_at": "2026-10-29T12:02:59.765069"
     },
     {
       "android_name": "Prepaid TWINT & other banks",
@@ -14148,10 +14148,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "38936e60-c2ea-47d9-8e27-2dc1b3f9c0ae",
       "created_at": "2026-10-28T13:27:01.129385",
-      "updated_at": "2026-10-28T13:27:55.786718"
+      "updated_at": "2026-10-30T08:20:24.509708"
     },
     {
       "android_name": "Wero",
