@@ -2887,10 +2887,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "bca1d7fc-fca7-4261-a59e-74112210e84b",
       "created_at": "2026-01-21T18:05:05.137969",
-      "updated_at": "2026-09-12T05:31:02.423591"
+      "updated_at": "2026-10-30T15:32:50.862867"
     },
     {
       "android_name": "Banco Mediolanum España",
@@ -5385,10 +5385,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 11,
+      "reports_count": 12,
       "id": "f16f56d9-c52f-4dbc-bba2-4e4230d703c9",
       "created_at": "2026-02-04T10:37:19.431945",
-      "updated_at": "2026-10-25T19:58:37.948244"
+      "updated_at": "2026-10-30T16:06:19.648192"
     },
     {
       "android_name": "Finnair Visa",
@@ -5436,10 +5436,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "c88540c6-391f-4b4f-9cdb-4a57ce6944cd",
       "created_at": "2026-02-04T11:46:59.494764",
-      "updated_at": "2026-08-08T15:44:12.713510"
+      "updated_at": "2026-10-30T16:00:29.727701"
     },
     {
       "android_name": "MELCloud",
@@ -6999,10 +6999,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "c05a99ea-102f-4876-a18d-14c70dddda56",
       "created_at": "2026-04-18T23:26:59.054734",
-      "updated_at": "2026-04-18T23:29:02.607941"
+      "updated_at": "2026-10-30T15:06:16.118982"
     },
     {
       "android_name": "Muuttolintujen kevät – RFJM",
@@ -7169,10 +7169,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "bc2ba2a6-c096-40b3-8030-23cd9593a111",
       "created_at": "2026-04-21T06:23:14.550807",
-      "updated_at": "2026-04-21T06:25:44.565459"
+      "updated_at": "2026-10-30T14:58:22.436389"
     },
     {
       "android_name": "Vy",
@@ -10985,10 +10985,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 4,
+      "reports_count": 5,
       "id": "3f2dfd68-a043-424b-9113-f37f184f0e9b",
       "created_at": "2026-08-11T16:32:29.257281",
-      "updated_at": "2026-10-27T08:47:51.155017"
+      "updated_at": "2026-10-30T16:09:32.208737"
     },
     {
       "android_name": "Logos: Deep Bible Study",
@@ -14203,6 +14203,23 @@
       "id": "d749df99-7808-4531-9739-00e359666705",
       "created_at": "2026-10-28T18:04:27.177509",
       "updated_at": "2026-10-28T18:05:29.722265"
+    },
+    {
+      "android_name": "MyNISSAN app",
+      "android_package": "eu.nissan.nissanconnect.services",
+      "android_description": "Welcome to MyNISSAN app, the official application of NissanConnect Services, previously known as NissanConnect Services app. The MyNISSAN app redefines your relationship with your vehicle by allowing you to connect, monitor, and control some of your car’s features directly from your smartphone. Compatible Models (by production date)*: •\tNissan LEAF (From May 2019) •\tNissan Navara (From July 2019) •\tNissan Juke (From Nov 2019) •\tNissan Qashqai (From July 2021) •\tNissan ARIYA (From July 2022) •\tNi",
+      "android_icon_url": "/icons/eu_nissan_nissanconnect_services.png",
+      "category": "travel",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "7c66f127-77bf-49f0-bffa-94e209692b25",
+      "created_at": "2026-10-30T15:17:19.419058",
+      "updated_at": "2026-10-30T15:22:52.132951"
     }
   ]
 }
