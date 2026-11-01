@@ -3400,10 +3400,10 @@
       "native_store_url": "https://openrepos.net/content/rikudousennin/proton-bridge-cli",
       "native_rating": "silver",
       "additional_native_apps": [],
-      "reports_count": 11,
+      "reports_count": 12,
       "id": "4417919b-8777-435a-bab3-1f35b5888dea",
       "created_at": "2026-01-23T12:34:32.877941",
-      "updated_at": "2026-10-27T08:10:24.353734"
+      "updated_at": "2026-10-31T18:30:02.304957"
     },
     {
       "android_name": "Proton Calendar: Secure Events",
@@ -3423,10 +3423,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "8fe441b8-ddf2-461e-a2c3-46b11d3422b5",
       "created_at": "2026-01-23T12:36:32.634183",
-      "updated_at": "2026-09-12T20:41:15.348151"
+      "updated_at": "2026-10-31T18:31:58.627096"
     },
     {
       "android_name": "Proton Drive: Cloud Storage",
