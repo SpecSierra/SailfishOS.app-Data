@@ -94,10 +94,10 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "",
-      "reports_count": 7,
+      "reports_count": 8,
       "id": "5",
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-10-14T15:41:18.388570"
+      "updated_at": "2026-11-01T16:34:58.722035"
     },
     {
       "android_name": "YouTube",
@@ -10433,10 +10433,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "6269e597-3598-4c31-b26f-368ee6de524a",
       "created_at": "2026-07-20T05:05:23.448521",
-      "updated_at": "2026-09-19T13:54:14.563995"
+      "updated_at": "2026-11-01T08:58:15.171258"
     },
     {
       "android_name": "Erste",
@@ -10671,10 +10671,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "50fd0049-ccf9-4f44-8669-820e5ae83b03",
       "created_at": "2026-07-30T16:06:06.939707",
-      "updated_at": "2026-07-30T16:06:46.649007"
+      "updated_at": "2026-11-01T10:19:53.064042"
     },
     {
       "android_name": "Steam Chat",
@@ -14220,6 +14220,40 @@
       "id": "7c66f127-77bf-49f0-bffa-94e209692b25",
       "created_at": "2026-10-30T15:17:19.419058",
       "updated_at": "2026-10-30T15:22:52.132951"
+    },
+    {
+      "android_name": "ObsIdentify",
+      "android_package": "org.observation.obsidentify",
+      "android_description": "Recognize nature in one click! Take a photo in Europe or the Dutch Caribbean and find out which species it is. Collect all your wildlife observations in the app. You'll be rewarded with tips to find new species, earn badges, and be invited to join challenges. Create groups with colleagues, family or friends, to share your stunning nature observations. Your observations, and those of others, contribute to biological research and knowledge about nature. Every observation counts! ObsIdentify only r",
+      "android_icon_url": "/icons/org_observation_obsidentify.png",
+      "category": "utilities",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "8da12875-7397-4457-ba7c-1ede749f947a",
+      "created_at": "2026-11-01T21:47:22.409509",
+      "updated_at": "2026-11-01T22:04:11.604803"
+    },
+    {
+      "android_name": "Fietsknoop biking and hiking",
+      "android_package": "nl.vv.fietsknoop",
+      "android_description": "Use the bike and hike nodes system in The Netherlands, Belgium and the borders of Germany to plan your own bike routes. After you make your route you can save, mail and share it. You can use your own routes by starting GPS navigation combined with speech instructions in your own language. On the map you see several points of interests for a stop. You can click on a POI for more information. Besides planning routes you can use labels to group your routes and you can invite friends to share routes",
+      "android_icon_url": "/icons/nl_vv_fietsknoop.png",
+      "category": "travel",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "2773f18c-d4dc-4a8d-b3d2-fe680aa699ae",
+      "created_at": "2026-11-01T22:11:03.508707",
+      "updated_at": "2026-11-01T22:12:16.744256"
     }
   ]
 }
