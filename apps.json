@@ -2465,10 +2465,17 @@
       "android_support_works": "unknown",
       "android_support_rating": 0,
       "android_support_notes": "",
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "706c1d69-83e2-47d1-aeeb-4ab5615665d8",
       "created_at": "2026-01-21T08:41:41.937496",
-      "updated_at": "2026-05-22T16:35:26.374229"
+      "updated_at": "2026-11-02T20:48:22.043626",
+      "additional_native_apps": [
+        {
+          "name": "Lappu",
+          "store_url": "",
+          "rating": "none"
+        }
+      ]
     },
     {
       "android_name": "Zulip",
@@ -6419,10 +6426,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 0,
+      "reports_count": 1,
       "id": "0e846282-8c75-4147-a7b2-08c16e6749f9",
       "created_at": "2026-03-10T11:14:50.738513",
-      "updated_at": "2026-03-10T11:14:50.738529"
+      "updated_at": "2026-11-02T19:24:32.220500"
     },
     {
       "android_name": "Garmin Connect™",
