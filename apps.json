@@ -14261,6 +14261,57 @@
       "id": "2773f18c-d4dc-4a8d-b3d2-fe680aa699ae",
       "created_at": "2026-11-01T22:11:03.508707",
       "updated_at": "2026-11-01T22:12:16.744256"
+    },
+    {
+      "android_name": "Kagi Assistant",
+      "android_package": "com.kagi.assistant",
+      "android_description": "Kagi Assistant combines Kagi Search with 30+ leading AI models, giving you the best of search and AI in one fast, ad-free app. Get current, source-backed answers, choose the right model for any task, and work without ads, tracking, or engagement-driven noise. • Combine Kagi Search with leading AI models Kagi Assistant pairs the world’s best search engine with state-of-the-art AI models for current, source-backed answers. • Choose from 30+ AI models Switch models at any point in a conversation wi",
+      "android_icon_url": "/icons/com_kagi_assistant.png",
+      "category": "utilities",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "097b7946-32e4-4994-b230-b662067d115e",
+      "created_at": "2026-11-03T18:45:28.457232",
+      "updated_at": "2026-11-03T18:46:06.808570"
+    },
+    {
+      "android_name": "Royal Bank of Scotland",
+      "android_package": "com.rbs.mobile.android.rbs",
+      "android_description": "Take control of your banking. Our app makes your day-to-day banking easy, quick and secure. Why the RBS app? Manage your money easily and securely: • Apply for current, savings, child, teen, premier and student accounts quickly. Eligibility criteria apply. • See all your bank accounts straight from your home screen. • Freeze and unfreeze your card at any time (Mastercard only). • Use pots to set money aside from your main account for everyday needs and to stay in control of your spending. • Set ",
+      "android_icon_url": "/icons/com_rbs_mobile_android_rbs.png",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "06b10377-af11-4583-9787-3fe6ae068c91",
+      "created_at": "2026-11-03T23:19:46.641795",
+      "updated_at": "2026-11-03T23:22:44.726345"
+    },
+    {
+      "android_name": "Quick Up!",
+      "android_package": "com.itslollyltd.eatwellordering",
+      "android_description": "CLICK & COLLECT Pre-order food from on-site outlets to skip the lines. REWARDS Exclusive offers and rewards.",
+      "android_icon_url": "/icons/com_itslollyltd_eatwellordering.png",
+      "category": "shopping",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "ea98ebc7-fb74-4203-8cd6-6efcf2800802",
+      "created_at": "2026-11-03T23:24:43.736804",
+      "updated_at": "2026-11-03T23:25:58.192118"
     }
   ]
 }

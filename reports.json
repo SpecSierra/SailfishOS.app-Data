@@ -16412,6 +16412,51 @@
       "native_app_name": "Lappu",
       "id": "339d779c-634d-40f9-a914-e0f74d397033",
       "created_at": "2026-11-02T20:48:21.875900"
+    },
+    {
+      "app_id": "097b7946-32e4-4994-b230-b662067d115e",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "none",
+      "native_app_name": null,
+      "id": "59d1fc66-f643-4084-8baf-bb2b0e556927",
+      "created_at": "2026-11-03T18:46:06.719624"
+    },
+    {
+      "app_id": "06b10377-af11-4583-9787-3fe6ae068c91",
+      "reporter_name": "Hackintosh",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "0.7.72.0000.46402.0",
+      "notes": "Flawlessly works however didn't get prompted for fingerprint authentication upon opening app, but can add to Proton Pass.\r\n\r\nAlso reports the device as jailbroken but does not affect performance, especially after logging in",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "51918c1f-d770-4a37-b525-8653b9d34a1b",
+      "created_at": "2026-11-03T23:22:44.674586"
+    },
+    {
+      "app_id": "ea98ebc7-fb74-4203-8cd6-6efcf2800802",
+      "reporter_name": "Hackintosh",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "9.2.5022",
+      "notes": "",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "e273e451-67ba-485e-b71d-416f4aae31c6",
+      "created_at": "2026-11-03T23:25:58.135245"
     }
   ]
 }
