@@ -40,10 +40,10 @@
           "rating": "none"
         }
       ],
-      "reports_count": 9,
+      "reports_count": 10,
       "id": "2",
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-09-19T18:10:05.809498"
+      "updated_at": "2026-11-04T14:15:30.247171"
     },
     {
       "id": "3",
@@ -77,9 +77,9 @@
       "android_support_works": "unknown",
       "android_support_rating": 0,
       "android_support_notes": "",
-      "reports_count": 3,
+      "reports_count": 4,
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-04-27T17:37:31.794373"
+      "updated_at": "2026-11-04T12:08:35.838385"
     },
     {
       "android_name": "Spotify: Music and Podcasts",
@@ -661,9 +661,9 @@
       "android_support_works": "no",
       "android_support_rating": 1,
       "android_support_notes": "Useless with MicroG (G4)",
-      "reports_count": 1,
+      "reports_count": 2,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-01-21T14:33:02.218816"
+      "updated_at": "2026-11-04T12:08:34.817350"
     },
     {
       "id": "bank-fi-nordea-id",
@@ -2634,10 +2634,10 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "",
-      "reports_count": 5,
+      "reports_count": 6,
       "id": "58f2c13c-72a0-460b-a6a1-1069d05e8b58",
       "created_at": "2026-01-21T08:57:37.521560",
-      "updated_at": "2026-08-14T06:10:40.554869"
+      "updated_at": "2026-11-04T14:13:20.313808"
     },
     {
       "android_name": "ÖBB Tickets",
@@ -2825,10 +2825,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "be42c04e-7385-425c-8b85-07c185caf931",
       "created_at": "2026-01-21T16:16:48.013718",
-      "updated_at": "2026-09-03T18:46:17.744702"
+      "updated_at": "2026-11-04T11:43:22.960714"
     },
     {
       "android_name": "Nysse Mobiili",
@@ -3610,10 +3610,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "19e70155-c101-4ba0-9c8e-626552c1e897",
       "created_at": "2026-01-23T12:44:39.633228",
-      "updated_at": "2026-07-16T00:40:04.345599"
+      "updated_at": "2026-11-04T13:23:39.686198"
     },
     {
       "android_name": "Finnair",
@@ -5392,10 +5392,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 12,
+      "reports_count": 13,
       "id": "f16f56d9-c52f-4dbc-bba2-4e4230d703c9",
       "created_at": "2026-02-04T10:37:19.431945",
-      "updated_at": "2026-10-30T16:06:19.648192"
+      "updated_at": "2026-11-04T07:46:37.624911"
     },
     {
       "android_name": "Finnair Visa",
@@ -5443,10 +5443,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "c88540c6-391f-4b4f-9cdb-4a57ce6944cd",
       "created_at": "2026-02-04T11:46:59.494764",
-      "updated_at": "2026-10-30T16:00:29.727701"
+      "updated_at": "2026-11-04T11:35:34.612749"
     },
     {
       "android_name": "MELCloud",
@@ -6426,10 +6426,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "0e846282-8c75-4147-a7b2-08c16e6749f9",
       "created_at": "2026-03-10T11:14:50.738513",
-      "updated_at": "2026-11-02T19:24:32.220500"
+      "updated_at": "2026-11-04T20:06:22.135049"
     },
     {
       "android_name": "Garmin Connect™",
@@ -6715,10 +6715,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "6f5911af-9604-44d2-8b2d-f7cf0f2ad424",
       "created_at": "2026-03-26T11:13:12.013412",
-      "updated_at": "2026-10-06T09:04:20.882164"
+      "updated_at": "2026-11-04T12:10:52.860940"
     },
     {
       "android_name": "Helsingin Sanomat",
@@ -7380,10 +7380,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 6,
+      "reports_count": 7,
       "id": "d93a0759-5d6a-4775-9cff-ebfb829a382a",
       "created_at": "2026-05-27T20:19:39.911857",
-      "updated_at": "2026-10-05T06:00:38.654848"
+      "updated_at": "2026-11-04T12:26:27.702419"
     },
     {
       "android_name": "Bolt: Request a Ride",
@@ -7754,10 +7754,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "01ada7d6-0ee1-48cb-b390-7ba5ed6cb9c7",
       "created_at": "2026-06-23T19:56:22.376447",
-      "updated_at": "2026-08-31T15:10:22.288065"
+      "updated_at": "2026-11-04T12:06:04.267323"
     },
     {
       "android_name": "Pandora - Music & Podcasts",
@@ -8706,10 +8706,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "2ef8cf14-273e-480e-8ad4-6cc6b783761f",
       "created_at": "2026-07-16T00:27:19.294394",
-      "updated_at": "2026-07-16T00:29:17.001985"
+      "updated_at": "2026-11-04T12:12:00.844553"
     },
     {
       "android_name": "Reddit",
@@ -8808,10 +8808,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "cf679249-6d73-431f-b175-3e3376850b92",
       "created_at": "2026-07-16T10:09:54.566187",
-      "updated_at": "2026-07-16T10:11:40.705744"
+      "updated_at": "2026-11-04T11:51:30.262976"
     },
     {
       "android_name": "JUDU",
@@ -10992,10 +10992,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 5,
+      "reports_count": 6,
       "id": "3f2dfd68-a043-424b-9113-f37f184f0e9b",
       "created_at": "2026-08-11T16:32:29.257281",
-      "updated_at": "2026-10-30T16:09:32.208737"
+      "updated_at": "2026-11-04T07:45:02.019335"
     },
     {
       "android_name": "Logos: Deep Bible Study",
@@ -12914,10 +12914,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "7891f1b7-8fa9-459b-8f6b-0f4efa1dd0c0",
       "created_at": "2026-09-22T05:35:55.481729",
-      "updated_at": "2026-09-22T05:41:36.581661"
+      "updated_at": "2026-11-04T13:44:53.946226"
     },
     {
       "android_name": "SimpleX Chat",
@@ -13169,10 +13169,10 @@
       "native_store_url": "https://openrepos.net/content/poetaster/fahrplan-fork",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 8,
+      "reports_count": 9,
       "id": "b93e9cdf-f970-4721-bf55-c45f47b7162c",
       "created_at": "2026-10-02T08:21:15.525326",
-      "updated_at": "2026-10-29T12:02:59.765069"
+      "updated_at": "2026-11-04T06:32:51.147507"
     },
     {
       "android_name": "Prepaid TWINT & other banks",
@@ -13645,10 +13645,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "1215171c-99dd-4804-b63b-19d07aaa83c3",
       "created_at": "2026-10-11T15:00:47.942456",
-      "updated_at": "2026-10-11T15:03:26.563541"
+      "updated_at": "2026-11-04T13:12:29.269769"
     },
     {
       "android_name": "Hay Day",
@@ -13866,10 +13866,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "16e4e3f7-0833-429a-a37e-36b40d329138",
       "created_at": "2026-10-16T12:42:37.312790",
-      "updated_at": "2026-10-16T12:43:12.715938"
+      "updated_at": "2026-11-04T05:51:29.977084"
     },
     {
       "android_name": "FUTO Keyboard",
@@ -13934,10 +13934,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "58163b74-4060-480a-8d9a-bbccbdbd91db",
       "created_at": "2026-10-23T04:54:09.789337",
-      "updated_at": "2026-10-23T05:03:16.021279"
+      "updated_at": "2026-11-04T12:03:43.793537"
     },
     {
       "android_name": "OmaKanta",
@@ -14312,6 +14312,57 @@
       "id": "ea98ebc7-fb74-4203-8cd6-6efcf2800802",
       "created_at": "2026-11-03T23:24:43.736804",
       "updated_at": "2026-11-03T23:25:58.192118"
+    },
+    {
+      "android_name": "Freja",
+      "android_package": "com.verisec.mobile.frejaeid",
+      "android_description": "Freja eID is an electronic identification you can use to access online services, identify yourself and others, control who gets your personal data and make electronic signatures, all that wrapped in a safe and easy-to-use mobile app. EXPLORE FREJA We want to redefine what it means to be an e-ID. Freja eID empowers you to: - Identify yourself to other people - Prove your age - Verify people you meet online - Identify yourself to services - Digitally sign contracts and consents - Control personal ",
+      "android_icon_url": "/icons/com_verisec_mobile_frejaeid.png",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "15ade486-6a12-4087-b7f8-090ecf1aaf5d",
+      "created_at": "2026-11-04T05:47:37.498762",
+      "updated_at": "2026-11-04T05:48:52.974484"
+    },
+    {
+      "android_name": "Mi Tarjeta Transporte",
+      "android_package": "com.crtm.integrated",
+      "android_description": "Official app for the Madrid Regional Transport Consortium's (CRTM) public transport card, designed to make buying tickets and using public transport easier. The app allows you to: Use physical cards: - Check your balance. - Top up your tickets. Use virtual cards: - Purchase anonymous virtual cards. - Digitize your personal public transport card. - Check your balance. - Top up your tickets. Technical requirements: - Android operating system 9.0 or higher. - NFC technology. To use the Virtual Card",
+      "android_icon_url": "/icons/com_crtm_integrated.png",
+      "category": "travel",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "3588b7fb-a127-4e73-a055-7bd63a6fd85f",
+      "created_at": "2026-11-04T12:27:40.832969",
+      "updated_at": "2026-11-04T12:29:38.340282"
+    },
+    {
+      "android_name": "OmaMehiläinen",
+      "android_package": "fi.mehilainen.mobileapp",
+      "android_description": "OmaMehiläinen has already been awarded in the 2021 Grand One competition for the best service design. In addition, it has received an honorable mention for the best user experience. In OmaMehiläinen you can see the health information related to the transaction, and with Digiklinika you can get to the doctor's chat reception without waiting in line, where you can treat e.g. renewing the prescription. You can conveniently take care of the whole family's health matters at once - from booking an app",
+      "android_icon_url": "/icons/fi_mehilainen_mobileapp.png",
+      "category": "health",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "bc90f3c2-ede3-4e15-a782-0091894b1b5b",
+      "created_at": "2026-11-04T13:28:50.141319",
+      "updated_at": "2026-11-04T13:30:02.292747"
     }
   ]
 }
