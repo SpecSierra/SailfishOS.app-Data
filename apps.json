@@ -12,10 +12,10 @@
       "native_store_url": "https://openrepos.net/content/aviarus/whatsapp",
       "native_rating": "bronze",
       "additional_native_apps": [],
-      "reports_count": 10,
+      "reports_count": 11,
       "id": "1",
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-09-28T16:56:35.582229"
+      "updated_at": "2026-11-05T19:19:35.599925"
     },
     {
       "android_name": "Telegram",
@@ -154,10 +154,10 @@
       "native_store_url": "https://sailfishos-chum.github.io/apps/harbour-pure-maps/",
       "native_rating": "platinum",
       "additional_native_apps": [],
-      "reports_count": 5,
+      "reports_count": 8,
       "id": "8",
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-09-19T19:08:35.948692"
+      "updated_at": "2026-11-05T19:35:09.434445"
     },
     {
       "id": "9",
@@ -2894,10 +2894,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 4,
+      "reports_count": 6,
       "id": "bca1d7fc-fca7-4261-a59e-74112210e84b",
       "created_at": "2026-01-21T18:05:05.137969",
-      "updated_at": "2026-10-30T15:32:50.862867"
+      "updated_at": "2026-11-05T15:23:14.477486"
     },
     {
       "android_name": "Banco Mediolanum España",
@@ -3275,10 +3275,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 4,
+      "reports_count": 5,
       "id": "57ff5279-ccec-47c4-9dd1-0825720a464f",
       "created_at": "2026-01-23T08:40:06.917941",
-      "updated_at": "2026-09-19T19:18:42.618359"
+      "updated_at": "2026-11-05T15:39:08.186866"
     },
     {
       "android_name": "EVENTIM DE: Tickets for Events",
@@ -6307,10 +6307,10 @@
       "native_store_url": "https://openrepos.net/content/vasvlad/meecast-sailfishos",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 3,
       "id": "e3623d7b-d5ae-47ca-919f-fe235551a4d9",
       "created_at": "2026-02-13T08:16:48.652034",
-      "updated_at": "2026-07-30T20:53:28.038355"
+      "updated_at": "2026-11-05T15:33:15.733668"
     },
     {
       "android_name": "Knab Bankieren",
@@ -8553,10 +8553,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "daf18f16-b23e-4a7d-bc7b-907bbb872d9f",
       "created_at": "2026-07-13T13:25:09.714477",
-      "updated_at": "2026-07-13T13:26:47.015230"
+      "updated_at": "2026-11-05T19:14:16.412233"
     },
     {
       "android_name": "Rakuten Viber Messenger",
@@ -10576,10 +10576,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "397f9582-b1c2-455b-9388-2cb45cb508c4",
       "created_at": "2026-07-29T12:28:40.393438",
-      "updated_at": "2026-09-15T11:10:10.355304"
+      "updated_at": "2026-11-05T19:25:55.565358"
     },
     {
       "android_name": "easybank Deutschland",
@@ -14363,6 +14363,77 @@
       "id": "bc90f3c2-ede3-4e15-a782-0091894b1b5b",
       "created_at": "2026-11-04T13:28:50.141319",
       "updated_at": "2026-11-04T13:30:02.292747"
+    },
+    {
+      "android_name": "Skånetrafiken",
+      "android_package": "se.skanetrafiken.washington",
+      "android_description": "Public transport app for Skåne region and travel across Öresund",
+      "android_icon_url": "https://play-lh.googleusercontent.com/aO6YIBJ3vTIXMWiMkKmTekTRWHIvskF_z4WNlBDCfnc70dyL0MXyn3CV1H2WVbu-A2SIlcDt7d-nRozcUvz8NQ=w480-h960",
+      "category": "travel",
+      "countries": [
+        "SE",
+        "DK"
+      ],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 2,
+      "id": "03693024-cce2-4cbc-82a4-3db97cb8312b",
+      "created_at": "2026-11-05T05:54:14.670194",
+      "updated_at": "2026-11-05T05:56:12.551094"
+    },
+    {
+      "android_name": "ING Banca Móvil y Finanzas",
+      "android_package": "www.ingdirect.nativeframe",
+      "android_description": "Download the app, become an ING customer, and start enjoying your mobile bank! Manage your finances and daily expenses, pay with your mobile, and send or receive money via Bizum easily and securely. Total control of your finances, Bizum, mobile payments, and management of your bank cards. You surely have many things to do (and enjoy) every day. Checking your bank's app shouldn't be one of them, or at least it should take up minimal time. Save time on your finances with your mobile bank! - Manage",
+      "android_icon_url": "/icons/www_ingdirect_nativeframe.png",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "619fdeaa-c75c-4408-a72a-3d15e1628396",
+      "created_at": "2026-11-05T19:21:02.991523",
+      "updated_at": "2026-11-05T19:21:42.118670"
+    },
+    {
+      "android_name": "MyInvestor · Banco & Inversión",
+      "android_package": "com.myinvestor.es",
+      "android_description": "Save and invest from your mobile We are an app to make your money grow. But we are much more. We are a Spanish bank with all the guarantees and security that a bank offers you. We are supervised by the Bank of Spain and the National Securities Market Commission. And your money is guaranteed by the Deposit Guarantee Fund in Spain. MyInvestor is a success story. Are you joining the hundreds of thousands of customers who are part of it? You can easily manage your savings with simple, accessible pro",
+      "android_icon_url": "/icons/com_myinvestor_es.png",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "47c76864-b7ec-4713-b9d4-00fdf9435afd",
+      "created_at": "2026-11-05T19:27:13.483694",
+      "updated_at": "2026-11-05T19:28:23.411374"
+    },
+    {
+      "android_name": "Papa Johns Pizza España",
+      "android_package": "es.com.papajohns",
+      "android_description": "Your pizza 🍕 delivered straight from our restaurant oven is now closer than ever! With the Papa John's App, enjoying our freshly baked pizzas is easier than ever. Order your food quickly and conveniently, and access exclusive offers only available through the app. Our commitment to quality starts with the best fresh ingredients, to offer you an unparalleled experience in every bite 😋. Order takeout or delivery with the Papa John's App and enjoy: ‣ Your pizza in seconds: Place your order online i",
+      "android_icon_url": "/icons/es_com_papajohns.png",
+      "category": "shopping",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "c7bdd9eb-07cc-457d-a773-455d50399878",
+      "created_at": "2026-11-05T19:36:33.513630",
+      "updated_at": "2026-11-05T19:36:58.818518"
     }
   ]
 }
