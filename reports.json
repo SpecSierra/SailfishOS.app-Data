@@ -17042,6 +17042,21 @@
       "native_app_name": null,
       "id": "5d28bd4c-43cb-410e-8156-d9558723f97b",
       "created_at": "2026-11-05T19:36:58.760524"
+    },
+    {
+      "app_id": "bank-fi-saastopankki",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "4.3.0",
+      "notes": "The native browser didn't work in the setup process, but using another browser worked. ",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "fa4bf726-e8ba-45d9-8faf-d2424e8cc015",
+      "created_at": "2026-11-06T13:36:24.224606"
     }
   ]
 }
