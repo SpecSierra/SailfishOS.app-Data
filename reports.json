@@ -17057,6 +17057,21 @@
       "native_app_name": null,
       "id": "fa4bf726-e8ba-45d9-8faf-d2424e8cc015",
       "created_at": "2026-11-06T13:36:24.224606"
+    },
+    {
+      "app_id": "a2a42e94-acfe-4701-ae49-65da9c9adb68",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "Needs to configure PIN on Android, but if I try to configure, it just don't. Seems to be a bug and does not work propertly on the version Jolla Phone 2026 runs https://forum.sailfishos.org/t/unable-to-set-lock-pin-for-android-apps-requiring-it/15806\r\n\r\nhttps://forum.sailfishos.org/t/is-it-possible-to-set-aas-device-unlock-to-something-other-than-none/33980/9",
+      "user_id": "ff148660-86ee-4d0b-b8bf-503ee3d8dbf9",
+      "platform": "android",
+      "works": "no",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "19d0a9f7-b9bb-4549-bffa-dc10fffed111",
+      "created_at": "2026-11-07T10:57:24.898964"
     }
   ]
 }
