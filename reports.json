@@ -17072,6 +17072,36 @@
       "native_app_name": null,
       "id": "19d0a9f7-b9bb-4549-bffa-dc10fffed111",
       "created_at": "2026-11-07T10:57:24.898964"
+    },
+    {
+      "app_id": "c344fced-5912-4f5a-834e-c0a6ac675496",
+      "reporter_name": "Anonymous",
+      "device": "",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "It work the first time, it let you login, it loads everything, and it apparently works fine. \r\nAnd it works until the activity is killed. After that it is stuck on the loading screen. I'm on SFOS 5.2.0.22",
+      "user_id": null,
+      "platform": "android",
+      "works": "no",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "90b35545-c9e4-47c9-9528-137b08c8a1d7",
+      "created_at": "2026-11-08T10:50:25.519726"
+    },
+    {
+      "app_id": "bank-fi-spankki",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "Doesn't start",
+      "user_id": null,
+      "platform": "android",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "f7e29f4a-775d-4969-9250-a46e992c7410",
+      "created_at": "2026-11-08T19:06:58.503800"
     }
   ]
 }
