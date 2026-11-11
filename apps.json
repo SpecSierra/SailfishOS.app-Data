@@ -1881,9 +1881,9 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "Works (A1)",
-      "reports_count": 2,
+      "reports_count": 3,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-02-02T11:43:26.412002"
+      "updated_at": "2026-11-10T06:08:47.982577"
     },
     {
       "id": "bank-se-icabanken",
@@ -4092,10 +4092,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "b88525b2-c190-4811-adea-4a05cabf89b8",
       "created_at": "2026-01-26T12:08:56.126536",
-      "updated_at": "2026-01-26T12:10:54.045863"
+      "updated_at": "2026-11-10T13:22:37.210861"
     },
     {
       "android_name": "mBank CZ",
@@ -4489,10 +4489,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 5,
+      "reports_count": 6,
       "id": "61727695-d017-4943-b421-301d37825b54",
       "created_at": "2026-01-30T23:12:00.423692",
-      "updated_at": "2026-09-16T21:36:13.287930"
+      "updated_at": "2026-11-10T06:06:24.981659"
     },
     {
       "android_name": "Kleinanzeigen - without eBay",
@@ -5305,10 +5305,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "feacdf3d-183a-41c1-84fc-f9b6685d0440",
       "created_at": "2026-02-02T11:51:56.479681",
-      "updated_at": "2026-02-02T11:54:16.775322"
+      "updated_at": "2026-11-10T06:07:43.256249"
     },
     {
       "android_name": "POP Avain -tunnuslukusovellus",
@@ -13169,10 +13169,10 @@
       "native_store_url": "https://openrepos.net/content/poetaster/fahrplan-fork",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 9,
+      "reports_count": 12,
       "id": "b93e9cdf-f970-4721-bf55-c45f47b7162c",
       "created_at": "2026-10-02T08:21:15.525326",
-      "updated_at": "2026-11-04T06:32:51.147507"
+      "updated_at": "2026-11-10T06:04:00.030713"
     },
     {
       "android_name": "Prepaid TWINT & other banks",
