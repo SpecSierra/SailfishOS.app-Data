@@ -17207,6 +17207,66 @@
       "native_app_name": null,
       "id": "bc6405fc-448f-467b-a2ce-28e0d1f42369",
       "created_at": "2026-11-10T13:22:37.171395"
+    },
+    {
+      "app_id": "3c8cee70-e32a-45d2-8b8a-c7660256bd45",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "",
+      "user_id": "61844966-0d29-4c24-a1bf-a8f43525dded",
+      "platform": "android",
+      "works": "yes",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "42042d3d-720a-4620-bd18-8d0fe31c21ae",
+      "created_at": "2026-11-11T20:23:43.982475"
+    },
+    {
+      "app_id": "cee2a091-5330-442a-9a46-c7ee09f369f3",
+      "reporter_name": "MikeSchmid",
+      "device": "Jolla Phone",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "",
+      "user_id": null,
+      "platform": "android",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "12c659bc-7877-4214-ba4f-b7d8bb44eb61",
+      "created_at": "2026-11-11T21:36:37.251870"
+    },
+    {
+      "app_id": "b93e9cdf-f970-4721-bf55-c45f47b7162c",
+      "reporter_name": "Simu",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "Latest update (November) breaks the SBB app. No more access via app and also website is broken. ",
+      "user_id": null,
+      "platform": "android",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "68e3cefa-e5ca-4131-9150-100663f1f849",
+      "created_at": "2026-11-11T21:45:48.040557"
+    },
+    {
+      "app_id": "b93e9cdf-f970-4721-bf55-c45f47b7162c",
+      "reporter_name": "Simu",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "Latest update (November) breaks the SBB app. No more access via app and also website is broken. ",
+      "user_id": null,
+      "platform": "browser",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "8842c9f2-6c29-47fa-89f5-b3b64ce58f90",
+      "created_at": "2026-11-11T21:45:48.204213"
     }
   ]
 }

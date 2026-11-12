@@ -7567,10 +7567,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "3c8cee70-e32a-45d2-8b8a-c7660256bd45",
       "created_at": "2026-06-05T08:57:30.692972",
-      "updated_at": "2026-07-09T14:14:57.408449"
+      "updated_at": "2026-11-11T20:23:44.045104"
     },
     {
       "android_name": "tado°",
@@ -13169,10 +13169,10 @@
       "native_store_url": "https://openrepos.net/content/poetaster/fahrplan-fork",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 12,
+      "reports_count": 14,
       "id": "b93e9cdf-f970-4721-bf55-c45f47b7162c",
       "created_at": "2026-10-02T08:21:15.525326",
-      "updated_at": "2026-11-10T06:04:00.030713"
+      "updated_at": "2026-11-11T21:45:48.235950"
     },
     {
       "android_name": "Prepaid TWINT & other banks",
@@ -14434,6 +14434,23 @@
       "id": "c7bdd9eb-07cc-457d-a773-455d50399878",
       "created_at": "2026-11-05T19:36:33.513630",
       "updated_at": "2026-11-05T19:36:58.818518"
+    },
+    {
+      "android_name": "SBB Mobile",
+      "android_package": "ch.sbb.mobile.android.b2c",
+      "android_description": "SBB Mobile: your personal travel companion for public transport. Want to know ahead of time if your train will arrive on time? Want to have quicker access to your ticket during ticket inspection? Want to be able to find your way better at the station and have reliable map information? We have good news for you! SBB Mobile can do it all. And much more. The heart of the app is the new navigation bar with the following menu points and content. Plan • Plan your journey with a simple timetable search",
+      "android_icon_url": "/icons/ch_sbb_mobile_android_b2c.png",
+      "category": "travel",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "cee2a091-5330-442a-9a46-c7ee09f369f3",
+      "created_at": "2026-11-11T21:35:04.088045",
+      "updated_at": "2026-11-11T21:36:37.312236"
     }
   ]
 }
