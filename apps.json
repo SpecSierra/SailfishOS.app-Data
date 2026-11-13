@@ -801,9 +801,9 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "Works (A1/G1), location dependent features may not work",
-      "reports_count": 8,
+      "reports_count": 9,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-11-08T19:06:58.546371"
+      "updated_at": "2026-11-12T15:56:46.610972"
     },
     {
       "id": "bank-fi-saastopankki",
@@ -4336,10 +4336,10 @@
       "native_store_url": "https://openrepos.net/content/zeip/paketti",
       "native_rating": "bronze",
       "additional_native_apps": [],
-      "reports_count": 4,
+      "reports_count": 5,
       "id": "67c6bbe8-5c1c-4cb0-831c-504d4ab5fb11",
       "created_at": "2026-01-27T11:06:23.465515",
-      "updated_at": "2026-06-09T16:27:38.372794"
+      "updated_at": "2026-11-12T06:47:11.885786"
     },
     {
       "android_name": "Syncthing-Fork",
@@ -6768,10 +6768,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 4,
       "id": "4627fbe4-fe01-4cef-9886-aaae9772dd43",
       "created_at": "2026-04-06T17:40:04.058918",
-      "updated_at": "2026-09-21T13:55:11.449502"
+      "updated_at": "2026-11-12T10:25:01.243593"
     },
     {
       "android_name": "ConnectBot",
@@ -14451,6 +14451,23 @@
       "id": "cee2a091-5330-442a-9a46-c7ee09f369f3",
       "created_at": "2026-11-11T21:35:04.088045",
       "updated_at": "2026-11-11T21:36:37.312236"
+    },
+    {
+      "android_name": "MEGA",
+      "android_package": "mega.privacy.android.app&hl=en-US",
+      "android_description": "MEGA provides user-controlled encrypted cloud storage that’s accessed with web browsers and dedicated apps for mobile devices. Unlike other cloud storage providers, your data is encrypted and decrypted by your client devices only and never by us. Upload files from your smartphone or tablet, then search, download, stream, view, share, rename or delete them from any device, anywhere. Share folders with your contacts and see their updates in real time. You can automatically sync your local data wit",
+      "android_icon_url": "https://play-lh.googleusercontent.com/4IDzX-5oH2pR3xvhtV7U0q2_3hPFd7KHmcK9Jj5oN0ISJfIBuctADot0Z1kQK1OFLX87nWxmPUzUU6TdymGdIw=s0-br30",
+      "category": "utilities",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 0,
+      "id": "dffc52f1-09d1-451e-b4a1-c9d65b194a02",
+      "created_at": "2026-11-12T12:42:07.642428",
+      "updated_at": "2026-11-12T12:42:07.642447"
     }
   ]
 }

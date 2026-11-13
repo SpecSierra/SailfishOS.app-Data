@@ -17267,6 +17267,66 @@
       "native_app_name": null,
       "id": "8842c9f2-6c29-47fa-89f5-b3b64ce58f90",
       "created_at": "2026-11-11T21:45:48.204213"
+    },
+    {
+      "app_id": "67c6bbe8-5c1c-4cb0-831c-504d4ab5fb11",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "The app installs via Aurora but I can't reach the login screen.",
+      "user_id": null,
+      "platform": "android",
+      "works": "partial",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "bf200461-5e1e-40b4-8cbe-c536b2baa280",
+      "created_at": "2026-11-12T06:47:11.817479"
+    },
+    {
+      "app_id": "4627fbe4-fe01-4cef-9886-aaae9772dd43",
+      "reporter_name": "Anonymous",
+      "device": "Jolla 2026",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "Didn't work either as Android or SFOS",
+      "user_id": null,
+      "platform": "android",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "7b533549-e8ed-436a-bdfd-ad72707a7052",
+      "created_at": "2026-11-12T10:25:01.021509"
+    },
+    {
+      "app_id": "4627fbe4-fe01-4cef-9886-aaae9772dd43",
+      "reporter_name": "Anonymous",
+      "device": "Jolla 2026",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "Didn't work either as Android or SFOS",
+      "user_id": null,
+      "platform": "native",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "6a46039e-e43f-405c-8812-766e85e2fb7d",
+      "created_at": "2026-11-12T10:25:01.206139"
+    },
+    {
+      "app_id": "bank-fi-spankki",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "",
+      "app_version": "",
+      "notes": "The app crashes on startup.",
+      "user_id": null,
+      "platform": "android",
+      "works": "no",
+      "dependency": null,
+      "native_app_name": null,
+      "id": "22671f52-0927-4fec-bb26-975d685c9106",
+      "created_at": "2026-11-12T15:56:46.554700"
     }
   ]
 }
