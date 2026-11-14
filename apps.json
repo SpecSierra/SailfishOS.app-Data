@@ -781,9 +781,9 @@
       "android_support_works": "partial",
       "android_support_rating": 3,
       "android_support_notes": "Mixed results - some versions work (A1/G1), others don't (G4)",
-      "reports_count": 25,
+      "reports_count": 26,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-10-28T14:16:01.141883"
+      "updated_at": "2026-11-13T12:55:54.270060"
     },
     {
       "id": "bank-fi-spankki",
@@ -801,9 +801,9 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "Works (A1/G1), location dependent features may not work",
-      "reports_count": 9,
+      "reports_count": 10,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-11-12T15:56:46.610972"
+      "updated_at": "2026-11-13T09:15:27.564256"
     },
     {
       "id": "bank-fi-saastopankki",
@@ -4489,10 +4489,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 6,
+      "reports_count": 8,
       "id": "61727695-d017-4943-b421-301d37825b54",
       "created_at": "2026-01-30T23:12:00.423692",
-      "updated_at": "2026-11-10T06:06:24.981659"
+      "updated_at": "2026-11-13T09:19:21.734409"
     },
     {
       "android_name": "Kleinanzeigen - without eBay",
@@ -5534,10 +5534,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "80ffdeb8-2179-40b2-9328-0c09c55ecd33",
       "created_at": "2026-02-06T00:42:36.806018",
-      "updated_at": "2026-02-06T00:43:05.957409"
+      "updated_at": "2026-11-13T21:02:40.801131"
     },
     {
       "android_name": "Tusky for Mastodon",
@@ -5755,10 +5755,10 @@
       "native_store_url": "https://openrepos.net/content/nicosouv/sailcat",
       "native_rating": "platinum",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "f8fc8c6c-78f3-4b7f-8f27-c191352e6aa7",
       "created_at": "2026-02-07T19:40:20.561412",
-      "updated_at": "2026-02-16T13:06:50.463432"
+      "updated_at": "2026-11-13T09:42:34.456885"
     },
     {
       "android_name": "Müllabfuhr - Kalender",
@@ -6751,10 +6751,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "1f442b91-04ee-4cc8-af1f-26f603379d3a",
       "created_at": "2026-04-03T11:27:13.063990",
-      "updated_at": "2026-07-11T10:05:45.748437"
+      "updated_at": "2026-11-13T21:58:39.965946"
     },
     {
       "android_name": "Thunderbird: Free Your Inbox",
@@ -7839,10 +7839,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "2b245b49-b667-4217-8cc9-91d47b1f1eac",
       "created_at": "2026-07-06T17:08:44.243478",
-      "updated_at": "2026-07-06T17:25:56.062031"
+      "updated_at": "2026-11-13T06:50:26.177541"
     },
     {
       "android_name": "Tangerine Mobile Banking",
@@ -14468,6 +14468,23 @@
       "id": "dffc52f1-09d1-451e-b4a1-c9d65b194a02",
       "created_at": "2026-11-12T12:42:07.642428",
       "updated_at": "2026-11-12T12:42:07.642447"
+    },
+    {
+      "android_name": "Claude by Anthropic",
+      "android_package": "com.anthropic.claude",
+      "android_description": "Meet Claude, your AI problem solver and thinking partner. Claude works with you to write, research, code, and tackle complex problems and hard questions with depth and precision. It enhances your thinking and expands what you're capable of, right from your phone. AI ASSISTANT FOR TASKS Get AI assistance on everyday tasks like filling out forms, planning a trip, drafting a reply, or making sense of a long document. Connect to your email account, file drives, and other tools so it can actually get",
+      "android_icon_url": "/icons/com_anthropic_claude.png",
+      "category": "productivity",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "014587cd-a046-456c-8593-915d2d90fb3b",
+      "created_at": "2026-11-13T07:36:30.666828",
+      "updated_at": "2026-11-13T07:37:32.806148"
     }
   ]
 }
