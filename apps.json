@@ -781,9 +781,9 @@
       "android_support_works": "partial",
       "android_support_rating": 3,
       "android_support_notes": "Mixed results - some versions work (A1/G1), others don't (G4)",
-      "reports_count": 26,
+      "reports_count": 29,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-11-13T12:55:54.270060"
+      "updated_at": "2026-11-14T15:54:38.722351"
     },
     {
       "id": "bank-fi-spankki",
@@ -11366,10 +11366,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 0,
+      "reports_count": 2,
       "id": "f66de2e8-cfec-4014-813f-4e2f50efc10c",
       "created_at": "2026-08-14T15:11:53.722522",
-      "updated_at": "2026-08-14T15:11:53.722536"
+      "updated_at": "2026-11-14T19:27:41.801991"
     },
     {
       "android_name": "SolariQ",
@@ -14485,6 +14485,40 @@
       "id": "014587cd-a046-456c-8593-915d2d90fb3b",
       "created_at": "2026-11-13T07:36:30.666828",
       "updated_at": "2026-11-13T07:37:32.806148"
+    },
+    {
+      "android_name": "Commerzbank Banking",
+      "android_package": "de.commerzbanking.mobil",
+      "android_description": "All the advantages of modern mobile banking with the security of a major German bank. Banking is quick and easy with the Commerzbank Banking app, whenever you want and wherever you are. Your bank is always with you. FUNCTIONS • Financial overview: all account balances and transactions at a glance • Quick login: Simple via biometric procedures • Card management: easily change your PIN or block your card in an emergency • Faster transfer: speedy and safe with photoTAN and Instant Payment as well a",
+      "android_icon_url": "/icons/de_commerzbanking_mobil.png",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "7c33c893-90ca-48c9-8b1e-9d1a66bf46bc",
+      "created_at": "2026-11-14T10:05:07.076144",
+      "updated_at": "2026-11-14T10:06:37.962172"
+    },
+    {
+      "android_name": "Open Food Facts",
+      "android_package": "org.openfoodfacts.scanner",
+      "android_description": "🔍 Scan, Discover & Compare Over 4 Million Food Products The app allows to scan the 4 million products already contained in the free and open database Open Food Facts. The app is collaborative. If we don't have the product, you can add pictures and data to get the Nutri-Score and NOVA score on food processing. In short, we're kind of \"the Wikipedia of food\", as many have nicknamed the project. Open Food Facts has enabled the creation of over 100 apps like Date Limite, Yuka or FoodVisor. 🥦 Make He",
+      "android_icon_url": "/icons/org_openfoodfacts_scanner.png",
+      "category": "health",
+      "countries": [],
+      "native_exists": true,
+      "native_name": "Offshore",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "ddf2d6d6-e255-4176-bf5b-87b696bb3d49",
+      "created_at": "2026-11-14T17:35:24.489316",
+      "updated_at": "2026-11-14T17:36:26.395444"
     }
   ]
 }
