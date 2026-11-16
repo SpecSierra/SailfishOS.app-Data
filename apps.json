@@ -119,10 +119,10 @@
           "rating": "silver"
         }
       ],
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "6",
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-05-29T08:14:19.408683"
+      "updated_at": "2026-11-15T22:16:35.342449"
     },
     {
       "android_name": "Signal Private Messenger",
@@ -3251,11 +3251,17 @@
       "native_name": "Sailtrix",
       "native_store_url": "https://sailfishos-chum.github.io/apps/harbour-sailtrix/",
       "native_rating": "gold",
-      "additional_native_apps": [],
-      "reports_count": 3,
+      "additional_native_apps": [
+        {
+          "name": "xmatix",
+          "store_url": "https://openrepos.net/content/jimknopfiot/xmatic",
+          "rating": "none"
+        }
+      ],
+      "reports_count": 5,
       "id": "aefbd491-1dc5-4ca2-a98e-1b8faf7b9e62",
       "created_at": "2026-01-22T20:34:59.364946",
-      "updated_at": "2026-08-08T15:33:08.903746"
+      "updated_at": "2026-11-15T22:06:13.918893"
     },
     {
       "android_name": "Vipps",

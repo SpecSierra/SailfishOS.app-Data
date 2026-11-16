@@ -17567,6 +17567,51 @@
       "native_app_name": null,
       "id": "8b931062-f93d-490a-9cee-72e6c4c69849",
       "created_at": "2026-11-14T19:27:41.768405"
+    },
+    {
+      "app_id": "aefbd491-1dc5-4ca2-a98e-1b8faf7b9e62",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "0.46.19-1",
+      "notes": "Completly works",
+      "user_id": "bbeaa7c8-ec68-4106-a949-803aaaeb0789",
+      "platform": "android",
+      "works": "yes",
+      "dependency": "none",
+      "native_app_name": null,
+      "id": "80b2c275-4f65-4f1e-aba1-a631c026837a",
+      "created_at": "2026-11-15T22:06:13.599062"
+    },
+    {
+      "app_id": "aefbd491-1dc5-4ca2-a98e-1b8faf7b9e62",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "0.46.19-1",
+      "notes": "Completly works",
+      "user_id": "bbeaa7c8-ec68-4106-a949-803aaaeb0789",
+      "platform": "native",
+      "works": "yes",
+      "dependency": null,
+      "native_app_name": "xmatix",
+      "id": "37a03297-fa27-404a-9a3f-41f69c3a7f67",
+      "created_at": "2026-11-15T22:06:13.766433"
+    },
+    {
+      "app_id": "6",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "21.46.522-BETA (1561314007)",
+      "notes": "The official Android app installed from Aurora Store works just fine unmodified",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "51144ac3-43c3-41a8-aa04-f4d2b1c466bc",
+      "created_at": "2026-11-15T22:16:35.287691"
     }
   ]
 }
