@@ -781,9 +781,9 @@
       "android_support_works": "partial",
       "android_support_rating": 3,
       "android_support_notes": "Mixed results - some versions work (A1/G1), others don't (G4)",
-      "reports_count": 29,
+      "reports_count": 30,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-11-14T15:54:38.722351"
+      "updated_at": "2026-11-19T12:03:22.663535"
     },
     {
       "id": "bank-fi-spankki",
@@ -801,9 +801,9 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "Works (A1/G1), location dependent features may not work",
-      "reports_count": 10,
+      "reports_count": 11,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-11-13T09:15:27.564256"
+      "updated_at": "2026-11-19T21:19:33.238491"
     },
     {
       "id": "bank-fi-saastopankki",
@@ -3256,12 +3256,17 @@
           "name": "xmatix",
           "store_url": "https://openrepos.net/content/jimknopfiot/xmatic",
           "rating": "none"
+        },
+        {
+          "name": "Rustrx",
+          "store_url": "https://github.com/moWerk/rustrx/",
+          "rating": "none"
         }
       ],
-      "reports_count": 5,
+      "reports_count": 6,
       "id": "aefbd491-1dc5-4ca2-a98e-1b8faf7b9e62",
       "created_at": "2026-01-22T20:34:59.364946",
-      "updated_at": "2026-11-15T22:06:13.918893"
+      "updated_at": "2026-11-19T08:47:33.903355"
     },
     {
       "android_name": "Vipps",
@@ -3304,10 +3309,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "84750a26-aa6e-4b43-b077-5a7d24a6c5f2",
       "created_at": "2026-01-23T11:05:50.175629",
-      "updated_at": "2026-01-23T11:11:21.331340"
+      "updated_at": "2026-11-19T18:43:29.893875"
     },
     {
       "android_name": "Argenta Belgium",
@@ -10998,10 +11003,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 6,
+      "reports_count": 7,
       "id": "3f2dfd68-a043-424b-9113-f37f184f0e9b",
       "created_at": "2026-08-11T16:32:29.257281",
-      "updated_at": "2026-11-04T07:45:02.019335"
+      "updated_at": "2026-11-19T20:55:34.272048"
     },
     {
       "android_name": "Logos: Deep Bible Study",
