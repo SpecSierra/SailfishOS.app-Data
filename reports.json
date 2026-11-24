@@ -17792,6 +17792,21 @@
       "native_app_name": null,
       "id": "8bbc084f-3fd3-4bac-9f6e-7d53260794c9",
       "created_at": "2026-11-22T19:55:24.760769"
+    },
+    {
+      "app_id": "63a52dae-a09e-4f5b-a1e9-6eae686a8fe2",
+      "reporter_name": "JappeQ",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "3.9.19 (197)",
+      "notes": "MicroG (MapLibre) is needed. At the time of writing do not use the latest version 4.10.0 (368). Remove this version and manually install 197 version code from Aurora Store. Have also \"High-accuracy positioning\" from Settings - Location turned ON. Is turned OFF, may cause white screen on starting up the app.",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "3c9a0ab0-ebe7-4b08-b835-e758f1aaf245",
+      "created_at": "2026-11-23T19:05:15.280331"
     }
   ]
 }
