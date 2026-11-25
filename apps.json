@@ -12,10 +12,10 @@
       "native_store_url": "https://openrepos.net/content/aviarus/whatsapp",
       "native_rating": "bronze",
       "additional_native_apps": [],
-      "reports_count": 11,
+      "reports_count": 12,
       "id": "1",
       "created_at": "2024-01-01T00:00:00",
-      "updated_at": "2026-11-05T19:19:35.599925"
+      "updated_at": "2026-11-24T16:03:00.866210"
     },
     {
       "android_name": "Telegram",
@@ -2447,10 +2447,10 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "",
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "a391e69d-8788-49a1-8904-bb30226fb2ec",
       "created_at": "2026-01-21T08:41:23.135394",
-      "updated_at": "2026-10-08T09:34:31.275226"
+      "updated_at": "2026-11-24T16:07:40.035955"
     },
     {
       "android_name": "Nextcloud Notes",
@@ -4296,10 +4296,10 @@
           "rating": "none"
         }
       ],
-      "reports_count": 5,
+      "reports_count": 6,
       "id": "cba5f9f2-9f78-4623-a894-036768af49d8",
       "created_at": "2026-01-27T10:50:19.237369",
-      "updated_at": "2026-09-16T21:39:12.709437"
+      "updated_at": "2026-11-24T15:54:15.919427"
     },
     {
       "android_name": "Mastodon",
@@ -6157,10 +6157,10 @@
       "native_store_url": "https://openrepos.net/content/ahappyhuman/sailfin",
       "native_rating": "gold",
       "additional_native_apps": [],
-      "reports_count": 4,
+      "reports_count": 5,
       "id": "a67c7f2f-91e4-41f1-a6da-9a0dc71219d3",
       "created_at": "2026-02-08T18:16:22.783292",
-      "updated_at": "2026-09-10T09:27:48.920023"
+      "updated_at": "2026-11-24T22:08:05.721709"
     },
     {
       "android_name": "openHAB",
@@ -11003,10 +11003,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 7,
+      "reports_count": 9,
       "id": "3f2dfd68-a043-424b-9113-f37f184f0e9b",
       "created_at": "2026-08-11T16:32:29.257281",
-      "updated_at": "2026-11-19T20:55:34.272048"
+      "updated_at": "2026-11-24T08:08:18.372412"
     },
     {
       "android_name": "Logos: Deep Bible Study",
@@ -11802,10 +11802,10 @@
       "native_store_url": "https://openrepos.net/content/roundedrectangle/sshazam",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "3d672e5e-d888-4d89-b3bf-2f5bd453c621",
       "created_at": "2026-08-26T09:34:32.055906",
-      "updated_at": "2026-08-26T09:38:15.290056"
+      "updated_at": "2026-11-24T16:17:05.213669"
     },
     {
       "android_name": "SmartBanking",
@@ -14581,6 +14581,142 @@
       "id": "b69b59d0-0ea8-4cd6-a2ae-c8366608350f",
       "created_at": "2026-11-20T09:56:49.271887",
       "updated_at": "2026-11-20T09:57:46.912523"
+    },
+    {
+      "android_name": "St1 Way",
+      "android_package": "fi.st1.bank.prod",
+      "android_description": "St1 Way – Refuel, wash and save! With the St1 Way app, essential service station services are always in your pocket. Pay for fuel and car washes through the app, find the nearest St1station and make use of current mobile benefits. By using the St1 Way app, you always get at least a 2 cents per liter discount on fuel! What does the St1 Way app offer? • Refuelling: Easy mobile refuelling with the St1 Way app at over 400 St1 service stations in Finland. • Discounted prices: Always at least a 2 cent",
+      "android_icon_url": "/icons/fi_st1_bank_prod.png",
+      "category": "travel",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 0,
+      "id": "1fd779dd-9148-4b62-b2ee-e61dc25b7f0d",
+      "created_at": "2026-11-24T14:01:16.525033",
+      "updated_at": "2026-11-24T14:01:16.525048"
+    },
+    {
+      "android_name": "Grayjay",
+      "android_package": "com.futo.platformplayer.playstore",
+      "android_description": "Welcome to Grayjay, where content discovery is reimagined. Dive into a world where you're not limited by platforms but empowered by creators. More than just an app, Grayjay opens the door to a content-rich universe, with features tailored to prioritize your experience and freedom: - Follow Creators, Not Platforms: Stay seamlessly connected with your favorite creators, irrespective of their primary content platform. - Personalized Content Feed: Immerse yourself in a feed curated by your tastes, f",
+      "android_icon_url": "/icons/com_futo_platformplayer_playstore.png",
+      "category": "entertainment",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "81d2493d-6bcf-4dc6-99ac-2b196f9dc50c",
+      "created_at": "2026-11-24T15:00:00.619096",
+      "updated_at": "2026-11-24T15:05:18.188683"
+    },
+    {
+      "android_name": "Alfabeto Patrimonio - App su Google Play",
+      "android_package": "com.fideuram.alfabetopatrimonio&hl=it",
+      "android_description": "con Alfabeto Patrimonio porti la tua banca sempre con te. L'app semplice e completa per essere utilizzata in totale comodità. Con l'app Alfabeto Patrimonio puoi: - avere una visione immediata e completa della tua situazione patrimoniale e dei tuoi investimenti, con vista sulle categorie prodotto, asset class, esposizione valutaria e rischio; - analizzare i tuoi investimenti con diversi livelli di dettaglio, dal portafoglio al singolo prodotto; -visualizzare l'andamento della tua posizione con vi",
+      "android_icon_url": "https://play-lh.googleusercontent.com/qrL9rdUOZR-6cwuJgdXURBnwRrElmk2ARGtlKu0MYOlvYssWfUBwC5adpuz61BNpf7K8rd7spc8CEegdu4R4kA=s0-br30",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "020820a4-93f2-4c11-9c6f-d9e04d0f304f",
+      "created_at": "2026-11-24T15:49:30.465999",
+      "updated_at": "2026-11-24T15:50:07.307265"
+    },
+    {
+      "android_name": "trale",
+      "android_package": "de.quantumphysique.trale/",
+      "android_description": "Lock in your optimal weight by losing or gaining with this simple, material design app. Why trale ðº? * Truly gratis : No annoying advertising, no tracker * Modern appearance using Material Design 3 * Customizable : Many custom themes, dark mode , and several units * Track your progress with state-of-the-art data modeling ð§âð» * Import and export of your measurements * Privacy : Permissions are optional. Only reminders and Health Connect sync ask for one, and we do not collect any data ",
+      "android_icon_url": "https://f-droid.org/repo/de.quantumphysique.trale/en-US/icon_PRm7zDLDtSy3gjvyMQJ2xEvnMkr8S6rWkDLPouBjwCo=.png",
+      "category": "health",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "77256a58-d438-4837-bafc-39115bb6c92e",
+      "created_at": "2026-11-24T15:51:48.807725",
+      "updated_at": "2026-11-24T15:52:21.320791"
+    },
+    {
+      "android_name": "Il Post - App su Google Play",
+      "android_package": "it.ilpost.app&hl=it",
+      "android_description": "A cosa serve questo aggiornamento? - Rende disponibili le trascrizioni dei podcast, per una migliore accessibilità dei contenuti del Post. - Migliora la navigazione dei contenuti con aggiornamenti del menù e della sezione podcast. - Introduce una migliore gestione dei contenuti video.",
+      "android_icon_url": "https://play-lh.googleusercontent.com/IzX3XMY_sLxgcQOGQRH2Jfps34m2TkFVg_mQWbXn8bXaQcg0teJtXj83f1T8KmPTGnI230maauOUwYMI4snQ=s0-br30",
+      "category": "news",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "27d0b307-6493-4e47-a1bf-89d576ba1030",
+      "created_at": "2026-11-24T15:56:58.314184",
+      "updated_at": "2026-11-24T15:57:18.361606"
+    },
+    {
+      "android_name": "Cardabase",
+      "android_package": "com.georgeyt9769.cardabase/",
+      "android_description": "Ditch the plastic and declutter your wallet with Cardabase, a lightweight, secure, and open-source digital wallet for all your loyalty cards, tickets, and barcodes. Built with privacy and simplicity in mind, Cardabase is entirely offline-first. Your personal data, card numbers, and scanned images never leave your device. Key Features: â¢ 100% Offline & Private: No tracking, no data collection, and no internet connection required to manage your cards. â¢ Fast Barcode Scanning: Easily scan physi",
+      "android_icon_url": "https://f-droid.org/repo/com.georgeyt9769.cardabase/en-US/icon_ZZLlX_kSl0CeCYCTgHMajM9KMDyxcah6ybAYLvf9zJQ=.png",
+      "category": "utilities",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "b3b9d848-a810-48a8-b14e-5e40cb2f2f1b",
+      "created_at": "2026-11-24T16:06:03.833597",
+      "updated_at": "2026-11-24T16:06:27.198699"
+    },
+    {
+      "android_name": "Fintraffic Mobiili",
+      "android_package": "fi.fintraffic.fintraffic_mobiili",
+      "android_description": "Fintraffic Mobile is your best travel companion. The application provides real-time information on Finnish roads and rail traffic. You can also receive information about traffic disruptions and warnings as push messages directly to your phone - wherever you are. The application also allows you to report traffic problems and disruptions you have noticed yourself. Road traffic - Approximately 800 weather cameras around Finland - Traffic disruption reports as push messages in your local area - All ",
+      "android_icon_url": "/icons/fi_fintraffic_fintraffic_mobiili.png",
+      "category": "travel",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "fd2f870e-3c97-46af-ac1b-073a6e636c8d",
+      "created_at": "2026-11-24T16:24:19.153989",
+      "updated_at": "2026-11-24T16:25:48.913331"
+    },
+    {
+      "android_name": "OmaElisa",
+      "android_package": "com.saunalahti.oma",
+      "android_description": "In OmaElisa you can pay invoices and manage all your products and services. In the app you can also find Elisa Etuohjelma, prize draws and device discounts for Elisa consumer customers.",
+      "android_icon_url": "/icons/com_saunalahti_oma.png",
+      "category": "utilities",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "e86a20e2-85f0-48a9-bea9-26853147c6ee",
+      "created_at": "2026-11-24T16:29:42.933911",
+      "updated_at": "2026-11-24T16:38:27.059044"
     }
   ]
 }
