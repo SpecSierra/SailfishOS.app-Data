@@ -3120,10 +3120,10 @@
       "native_store_url": "https://openrepos.net/content/blacksheepdev/quartermaster",
       "native_rating": "silver",
       "additional_native_apps": [],
-      "reports_count": 6,
+      "reports_count": 7,
       "id": "fbaa87a3-b8af-43c7-966b-2cf5e1646092",
       "created_at": "2026-01-21T20:28:23.547436",
-      "updated_at": "2026-10-08T14:18:15.022196"
+      "updated_at": "2026-11-25T14:51:28.571087"
     },
     {
       "android_name": "Bluesky",
@@ -10587,10 +10587,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "397f9582-b1c2-455b-9388-2cb45cb508c4",
       "created_at": "2026-07-29T12:28:40.393438",
-      "updated_at": "2026-11-05T19:25:55.565358"
+      "updated_at": "2026-11-25T16:59:26.571043"
     },
     {
       "android_name": "easybank Deutschland",
@@ -14717,6 +14717,40 @@
       "id": "e86a20e2-85f0-48a9-bea9-26853147c6ee",
       "created_at": "2026-11-24T16:29:42.933911",
       "updated_at": "2026-11-24T16:38:27.059044"
+    },
+    {
+      "android_name": "Censored.TV",
+      "android_package": "tv.freespeech",
+      "android_description": "We've rebuilt this guy from the ground up and hope you find it easier to participate in the shows. Key Features: - Revamped Video Player: Better support for live streams and less buffering - Picture in Picture Mode: Most requested feature. Fixed and ready - Push Notification Alerts: Never miss a live show - Lock Screen Controls: Faster access to manage playback when you're on the go - Improved audio routing for AirPods, headphones, and car speakers - Chromecast: Cast-enabled devices can now play",
+      "android_icon_url": "/icons/tv_freespeech.png",
+      "category": "entertainment",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "5c0b9ce3-2f40-4877-b288-e34ec32d89ae",
+      "created_at": "2026-11-25T14:31:00.671018",
+      "updated_at": "2026-11-25T14:44:26.203311"
+    },
+    {
+      "android_name": "MDE.TV",
+      "android_package": "tv.mde.mobile",
+      "android_description": "The Home for all Million Dollar Extreme content from troupe Sam Hyde, Nick Rochefort, and Charls Carroll.",
+      "android_icon_url": "/icons/tv_mde_mobile.png",
+      "category": "entertainment",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "103f3d24-d07c-41a5-9f87-ca0766c2aeb5",
+      "created_at": "2026-11-25T14:45:19.573381",
+      "updated_at": "2026-11-25T14:48:17.498235"
     }
   ]
 }

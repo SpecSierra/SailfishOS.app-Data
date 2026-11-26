@@ -18017,6 +18017,66 @@
       "native_app_name": "Sailfin",
       "id": "a14df5a6-4bba-445f-8794-027feff2ca5f",
       "created_at": "2026-11-24T22:08:05.661070"
+    },
+    {
+      "app_id": "5c0b9ce3-2f40-4877-b288-e34ec32d89ae",
+      "reporter_name": "R. Rivera",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "4.2 (42)",
+      "notes": "",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "none",
+      "native_app_name": null,
+      "id": "33aeecc3-097a-4348-975f-9181d7c5ad75",
+      "created_at": "2026-11-25T14:44:26.134846"
+    },
+    {
+      "app_id": "103f3d24-d07c-41a5-9f87-ca0766c2aeb5",
+      "reporter_name": "theDud",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "1.0.7 (12)",
+      "notes": "",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "cd2f89d2-6383-4280-84ab-ace57dce8b5b",
+      "created_at": "2026-11-25T14:48:17.435213"
+    },
+    {
+      "app_id": "fbaa87a3-b8af-43c7-966b-2cf5e1646092",
+      "reporter_name": "Nick",
+      "device": "Jolla Phone 2",
+      "sailfish_version": "5.2",
+      "app_version": "2026.11.1-minimal (25506)",
+      "notes": "From Fdroid",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "none",
+      "native_app_name": null,
+      "id": "a13a19e5-209d-4633-a82c-97b5fb6d9a30",
+      "created_at": "2026-11-25T14:51:28.514459"
+    },
+    {
+      "app_id": "397f9582-b1c2-455b-9388-2cb45cb508c4",
+      "reporter_name": "Anonymous",
+      "device": "Xperia 10 III",
+      "sailfish_version": "5.2",
+      "app_version": "",
+      "notes": "",
+      "user_id": null,
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg",
+      "native_app_name": null,
+      "id": "f4028edc-adc4-45fc-9917-f46b230fc56f",
+      "created_at": "2026-11-25T16:59:26.507793"
     }
   ]
 }
