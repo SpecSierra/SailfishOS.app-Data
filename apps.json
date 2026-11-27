@@ -1881,9 +1881,9 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "Works (A1)",
-      "reports_count": 3,
+      "reports_count": 4,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-11-10T06:08:47.982577"
+      "updated_at": "2026-11-26T08:52:14.330707"
     },
     {
       "id": "bank-se-icabanken",
@@ -1941,9 +1941,9 @@
       "android_support_works": "yes",
       "android_support_rating": 5,
       "android_support_notes": "Works with MicroG (G1), Swish & BankID work mostly",
-      "reports_count": 1,
+      "reports_count": 2,
       "created_at": "2026-01-19T22:00:00",
-      "updated_at": "2026-01-21T14:33:13.334677"
+      "updated_at": "2026-11-26T08:48:24.703395"
     },
     {
       "id": "bank-se-swedbank",
@@ -3263,10 +3263,10 @@
           "rating": "none"
         }
       ],
-      "reports_count": 6,
+      "reports_count": 7,
       "id": "aefbd491-1dc5-4ca2-a98e-1b8faf7b9e62",
       "created_at": "2026-01-22T20:34:59.364946",
-      "updated_at": "2026-11-19T08:47:33.903355"
+      "updated_at": "2026-11-26T09:00:48.922749"
     },
     {
       "android_name": "Vipps",
@@ -3730,10 +3730,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 4,
+      "reports_count": 5,
       "id": "538ead91-c693-4744-a1e1-b045771bb94d",
       "created_at": "2026-01-23T17:25:03.436064",
-      "updated_at": "2026-09-03T18:45:39.990961"
+      "updated_at": "2026-11-26T09:21:05.632799"
     },
     {
       "android_name": "Immich",
@@ -5316,10 +5316,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 2,
+      "reports_count": 3,
       "id": "feacdf3d-183a-41c1-84fc-f9b6685d0440",
       "created_at": "2026-02-02T11:51:56.479681",
-      "updated_at": "2026-11-10T06:07:43.256249"
+      "updated_at": "2026-11-26T08:46:46.145362"
     },
     {
       "android_name": "POP Avain -tunnuslukusovellus",
@@ -8054,10 +8054,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 1,
+      "reports_count": 2,
       "id": "ba209af1-68a8-4528-b612-309058e1d084",
       "created_at": "2026-07-09T09:02:57.151047",
-      "updated_at": "2026-10-06T17:25:01.862433"
+      "updated_at": "2026-11-26T09:07:09.595763"
     },
     {
       "android_name": "Matkahuolto Paketit",
@@ -10570,10 +10570,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 0,
+      "reports_count": 1,
       "id": "564fe7c9-433d-4205-a73f-07fb54de7759",
       "created_at": "2026-07-29T12:27:29.315991",
-      "updated_at": "2026-07-29T12:27:29.316005"
+      "updated_at": "2026-11-26T08:53:21.903421"
     },
     {
       "android_name": "Microsoft Authenticator",
@@ -14751,6 +14751,74 @@
       "id": "103f3d24-d07c-41a5-9f87-ca0766c2aeb5",
       "created_at": "2026-11-25T14:45:19.573381",
       "updated_at": "2026-11-25T14:48:17.498235"
+    },
+    {
+      "android_name": "Dormi - Baby Monitor",
+      "android_package": "com.sleekbit.dormi",
+      "android_description": "Trusted by parents for over 12 years Turn two Android phones into a reliable video baby monitor. One phone goes near your baby (child device), the other stays with you. Live encrypted audio and video, automatic noise detection, night vision, two-way talk — and complete privacy. No ads. No tracking. That old phone? It's a baby monitor now. Got an old Android gathering dust in a drawer? Use it as a dedicated child device. Your retired phone becomes a permanent baby monitor — no extra hardware need",
+      "android_icon_url": "/icons/com_sleekbit_dormi.png",
+      "category": "utilities",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "13401cb9-2acf-4bef-a027-f63aa6322d85",
+      "created_at": "2026-11-26T08:57:59.765132",
+      "updated_at": "2026-11-26T08:58:31.060056"
+    },
+    {
+      "android_name": "Tradera – buy & sell",
+      "android_package": "com.tradera",
+      "android_description": "Warm welcome to Tradera, the largest marketplace in the Nordics. At Tradera, both buyers and sellers are verified, making Tradera a safe and secure marketplace. Payments are made through integrated payment methods. Items can easily be shipped directly to your home. We have three million items for sale, and whether you're looking for a PlayStation, a retro scooter, a pasta machine, plants, or a winter jacket, we dare to promise that there's something for you. If you want to sell items you no long",
+      "android_icon_url": "/icons/com_tradera.png",
+      "category": "shopping",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "550a89ec-e80e-41ca-83dc-78510f175f8a",
+      "created_at": "2026-11-26T09:01:40.677529",
+      "updated_at": "2026-11-26T09:02:08.498711"
+    },
+    {
+      "android_name": "Tempus Hemma",
+      "android_package": "se.tempusinfo.tempushemma2",
+      "android_description": "Tempus Hemma is used to schedule preschool and after-school children in the most flexible way possible. You can also receive push notifications when your child touches in or out of their section via the preschool's app. This app is constantly under development. We're more than happy to receive your feedback, so let us know right away if you're missing something specific. Feel free to join our beta testing channel if you haven't already to test the latest features before most others. Some functio",
+      "android_icon_url": "/icons/se_tempusinfo_tempushemma2.png",
+      "category": "education",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "4621d876-beed-4297-99da-19a6a7425850",
+      "created_at": "2026-11-26T09:03:48.966554",
+      "updated_at": "2026-11-26T09:04:24.473331"
+    },
+    {
+      "android_name": "Kivra Sweden",
+      "android_package": "com.kivra.Kivra",
+      "android_description": "Kivra is a place where you can collect your important stuff. Letters, invoices, receipts and more – things that you otherwise would keep in binders, trousers or piles of paper. You no longer have to look for insurance letters, warranty receipts or the dog’s vaccination certificate. Instead you can gather everything in the same place to make it available at all times, wherever you are. Kivra is a sustainable alternative to postal mail and receipts. And for each document that is being sent or rece",
+      "android_icon_url": "/icons/com_kivra_Kivra.png",
+      "category": "banking",
+      "countries": [],
+      "native_exists": false,
+      "native_name": "",
+      "native_store_url": "",
+      "native_rating": "none",
+      "additional_native_apps": [],
+      "reports_count": 1,
+      "id": "65fd5056-3971-40f0-9f2e-45ad849a37fa",
+      "created_at": "2026-11-26T09:05:50.647343",
+      "updated_at": "2026-11-26T09:06:17.644407"
     }
   ]
 }
