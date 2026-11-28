@@ -3034,10 +3034,10 @@
       "dependency": "none",
       "browser_works": "unknown",
       "browser_notes": "",
-      "reports_count": 4,
+      "reports_count": 5,
       "id": "fbb4d858-2788-4420-af89-226011939dcb",
       "created_at": "2026-01-21T19:35:00.302758",
-      "updated_at": "2026-08-27T12:40:26.312199"
+      "updated_at": "2026-11-27T15:52:36.750076"
     },
     {
       "android_name": "SMOU - Mobility Services",
@@ -10859,10 +10859,10 @@
       "native_store_url": "",
       "native_rating": "none",
       "additional_native_apps": [],
-      "reports_count": 3,
+      "reports_count": 4,
       "id": "a97cd57b-5376-4275-a745-a0a12eecfb50",
       "created_at": "2026-08-05T19:12:23.039428",
-      "updated_at": "2026-10-12T10:00:28.125018"
+      "updated_at": "2026-11-27T15:56:45.826162"
     },
     {
       "android_name": "Kagi",

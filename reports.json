@@ -18242,6 +18242,36 @@
       "native_app_name": null,
       "id": "a6d321c2-3a45-4b32-997c-18d1102d81ab",
       "created_at": "2026-11-26T09:21:05.592296"
+    },
+    {
+      "app_id": "fbb4d858-2788-4420-af89-226011939dcb",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone",
+      "sailfish_version": "5.2",
+      "app_version": "1.100.59",
+      "notes": "",
+      "user_id": "6537d4ed-86e4-493b-ba53-4ccc5e7d50eb",
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg_or_gapps",
+      "native_app_name": null,
+      "id": "3d261a1f-72d6-41dc-b73a-e19815f2534b",
+      "created_at": "2026-11-27T15:52:36.685562"
+    },
+    {
+      "app_id": "a97cd57b-5376-4275-a745-a0a12eecfb50",
+      "reporter_name": "Anonymous",
+      "device": "Jolla Phone",
+      "sailfish_version": "5.2",
+      "app_version": "369.261119.0",
+      "notes": "",
+      "user_id": "6537d4ed-86e4-493b-ba53-4ccc5e7d50eb",
+      "platform": "android",
+      "works": "yes",
+      "dependency": "microg_or_gapps",
+      "native_app_name": null,
+      "id": "d643be76-be65-4396-bc49-81de262273cf",
+      "created_at": "2026-11-27T15:56:45.765331"
     }
   ]
 }
